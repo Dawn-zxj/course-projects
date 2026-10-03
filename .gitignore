@@ -1,0 +1,15 @@
+# Generated simulator and editor files
+*.log
+*.tmp
+*.bak
+*.aux
+*.out
+*.swp
+__pycache__/
+.DS_Store
+
+# Local analysis outputs
+build/
+dist/
+cache/
+results/raw/
